@@ -5,7 +5,7 @@
     { "source": "/httpproxy/:match/:url*", "destination": "http://:match/:url*" },
     { "source": "/httpproxy/:match/:url*/", "destination": "http://:match/:url*/" }
   ],
-  regions: [
+  "regions": [
     "arn1",
     "bom1",
     "cdg1",
